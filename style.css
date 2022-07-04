@@ -12,7 +12,7 @@ h1 {
 
 }
 
-section {
+.felixible-container {
     display: flex;
     margin-bottom: 120px;
 }
